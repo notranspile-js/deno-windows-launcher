@@ -1,0 +1,7 @@
+
+
+[package]
+name = "denow"
+version = "1.0.0"
+authors = ["alex@staticlibs.net"]
+edition = "2018"
